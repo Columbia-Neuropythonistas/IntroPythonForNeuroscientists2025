@@ -40,7 +40,7 @@ Schedule (subject to change):
     <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2025/tree/main/Week01" target="_blank" rel="noopener noreferrer">HW0 (Submit on courseworks)</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2025/tree/main/Week02" target="_blank" rel="noopener noreferrer">Week 2</a><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/9)</span></td>
+    <td class="tg-0pky">Week 2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> (9/9)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Python Basics:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Why use python?</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data Types &amp; Variables (float, int, str, list, dict, tuple)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Booleans &amp; If/Else</span><br></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sharon</span></td>
     <td class="tg-0pky"></td>
