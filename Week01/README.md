@@ -63,9 +63,9 @@ Windows users - if your username has a space in it (for instance, if your usenam
 
 ## Install VSCode
 **Please follow the FULL tutorial!!!** 
-- Follow the instructions for your operating system (Linux, Windows, or Mac) [here:](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/)
+- Follow the instructions for your operating system (Linux, Windows, or Mac) [here:](https://code.visualstudio.com/docs/python/python-tutorial)
 
-#### DELIVERABLE 2: Once you've gone through the instructions above, please take a screenshot of your printed hello world, and submit it to the courseworks.
+#### DELIVERABLE 2: Once you've gone through the instructions above, please take a screenshot of your printed "Roll a dice!", and submit it to the courseworks.
 
 - Troubleshooting:
     - If `code .` doesn't work for you, try using the Uninstall 'code' command in the PATH command before the "Install 'code' command in PATH" command following the instructions [here](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) ([source](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)).
