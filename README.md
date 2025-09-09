@@ -1,4 +1,5 @@
-![PfN_2024_Rect_black](https://github.com/user-attachments/assets/56df6396-535b-49fe-8863-4f6a47c26862)
+<img width="2000" height="500" alt="2" src="https://github.com/user-attachments/assets/06929aa1-54b9-4b2a-a9a9-83da74a0f523" />
+
 
 # Introduction to Python for Neuroscientists
 Course repository for the Fall 2025 edition of Introduction to Python for Neuroscientists, run by the Columbia Neurobiology and Behavior PhD program.
