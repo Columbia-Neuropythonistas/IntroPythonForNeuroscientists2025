@@ -64,7 +64,7 @@ Schedule (subject to change):
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 5 (9/30)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Numpy: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Why do we need numpy?</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Basic numpy functionalty</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- How to manipulate and read out arrays</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- How to solve mathematical problems in Python.</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TBD</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://github.com/Columbia-Neuropythonistas/IntroPythonForNeuroscientists2025/tree/main/Week04" target="_blank" rel="noopener noreferrer">HW4 (Submit on courseworks)</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Week 6 (10/7)</span></td>
